@@ -16,8 +16,10 @@ http://www.bailopan.net/stripper/
 L4D2 Tickrate Enabler 1.4-dev
 --------------
 http://www.l4dnation.com/confogl-and-other-configs/l4d12-tickrate-enabler-1-0/
+
 https://github.com/mvandorp/l4d2_tickrate_enabler
-Modifications:
+
+**Modifications**:
  - Recompiled for MetaMod 1.10.5
 
 DHooks 2.0.3-hg79
@@ -35,16 +37,44 @@ https://forums.alliedmods.net/showthread.php?t=93600
 BuiltinVotes 0.5.8
 --------------
 https://forums.alliedmods.net/showthread.php?t=162164
+
 https://github.com/mvandorp/builtinvotes
-Modifications:
+
+**Modifications**:
  - Recompiled for SourceMod 1.7.2
+
+GeoIPCity 1.1.2
+--------------
+https://forums.alliedmods.net/showthread.php?t=132470?t=132470
+
+**Notes**:
+ - Packaged with GeoIP config from ProMod
+
+Connect Announce 1.6
+--------------
+https://forums.alliedmods.net/showthread.php?t=77306
+
+**Notes**:
+ - Packaged with CAnnounce config and data from Sir's PromodFullPackage
 
 Confogl 2.2.2
 --------------
 https://code.google.com/p/confogl/
-Modifications:
+
+**Notes**:
  - Removed deprecated extensions
 
 ProMod 4.3.1-0
 --------------
 https://github.com/jacob404/Pro-Mod-4.0
+
+Various
+--------------
+http://www.l4dnation.com/confogl-and-other-configs/how-to-install-promodconfogl-(linux-guide)/
+
+**Contents**:
+ - match_vote.smx (missing dependency of ProMod)
+ - bequiet.smx (plugin by Sir that silences common commands)
+ - TickrateFixes.smx (plugin by Sir that fixes some of the issues caused by higher tickrates)
+ - sharedplugins.cfg (loads plugins that should always be enabled)
+ - matchmodes.txt (matchmodes config for the match_vote plugin)
