@@ -64,6 +64,26 @@ https://code.google.com/p/confogl/
 **Notes**:
  - Removed deprecated extensions
 
+Practiceogl 1.1
+--------------
+http://www.l4dnation.com/confogl-and-other-configs/1v1-practiceogl-1-0/
+
+Scavogl 2.1.4
+--------------
+https://code.google.com/p/scavogl/
+
+Rotoblin 3.4
+--------------
+https://github.com/Attano/Rotoblin
+
+Sky 2.7.1
+--------------
+https://github.com/Attano/Sky
+
+Equilibrium 2.1
+--------------
+https://github.com/Attano/Equilibrium
+
 ProMod 4.3.1-0
 --------------
 https://github.com/jacob404/Pro-Mod-4.0
@@ -74,7 +94,8 @@ http://www.l4dnation.com/confogl-and-other-configs/how-to-install-promodconfogl-
 
 **Contents**:
  - match_vote.smx (missing dependency of ProMod)
- - bequiet.smx (plugin by Sir that silences common commands)
+ - bequiet.smx (plugin by Sir that silences ! trigger commands)
+ - readyup.smx (Modification of readyup by Sir)
  - TickrateFixes.smx (plugin by Sir that fixes some of the issues caused by higher tickrates)
  - sharedplugins.cfg (loads plugins that should always be enabled)
  - matchmodes.txt (matchmodes config for the match_vote plugin)

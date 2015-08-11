@@ -24,6 +24,12 @@ main() {
     install "geoip"
     install "cannounce"
     install "confogl"
+    install "practiceogl"
+    install "scavogl"
+    install "witchparty"
+    install "rotoblin"
+    install "eq"
+    install "sky"
     install "promod"
     install "various"
 }
