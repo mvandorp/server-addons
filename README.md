@@ -9,7 +9,7 @@ SourceMod 1.7.3-git5265
 --------------
 https://www.sourcemod.net/
 
-Stripper:Source 1.2.2-git105
+Stripper:Source 1.2.2-git113
 --------------
 http://www.bailopan.net/stripper/
 
