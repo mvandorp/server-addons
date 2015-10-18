@@ -1,7 +1,7 @@
 Server Addons
 ==============
 
-MetaMod:Source 1.10.5
+MetaMod:Source 1.10.6
 --------------
 http://www.metamodsource.net/
 
