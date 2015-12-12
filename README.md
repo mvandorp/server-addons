@@ -22,7 +22,7 @@ https://github.com/mvandorp/l4d2_tickrate_enabler
 **Modifications**:
  - Recompiled for MetaMod 1.10.5
 
-DHooks 2.0.3-hg79
+DHooks 1.0.12-alpha
 --------------
 https://forums.alliedmods.net/showthread.php?t=180114
 
