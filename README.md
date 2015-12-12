@@ -95,11 +95,19 @@ https://github.com/mvandorp/sourcebansv1
 Various
 --------------
 http://www.l4dnation.com/confogl-and-other-configs/how-to-install-promodconfogl-(linux-guide)/
+https://github.com/mvandorp/server-plugins
 
 **Contents**:
- - match_vote.smx (missing dependency of ProMod)
- - bequiet.smx (plugin by Sir that silences ! trigger commands)
- - readyup.smx (Modification of readyup by Sir)
- - TickrateFixes.smx (plugin by Sir that fixes some of the issues caused by higher tickrates)
- - sharedplugins.cfg (loads plugins that should always be enabled)
- - matchmodes.txt (matchmodes config for the match_vote plugin)
+ - match_vote.smx
+ - bequiet.smx
+ - server_namer.smx
+ - TickrateFixes.smx
+ - votemanager2.smx
+ - l4d2_respec_fixes.smx
+ - l4d2_skill_detect.smx
+ - l4d2_slot_vote.smx
+ - l4d2_stats.smx
+ - l4d_votepoll_fix.smx
+ - readyup.smx
+ - sharedplugins.cfg
+ - matchmodes.txt
