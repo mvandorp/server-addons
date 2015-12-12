@@ -31,6 +31,7 @@ main() {
     install "eq"
     install "sky"
     install "promod"
+    install "sourcebans"
     install "various"
 }
 

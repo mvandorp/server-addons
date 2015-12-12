@@ -88,6 +88,10 @@ ProMod 4.4.2
 --------------
 https://github.com/jacob404/Pro-Mod-4.0
 
+SourceBans 
+--------------
+https://github.com/mvandorp/sourcebansv1
+
 Various
 --------------
 http://www.l4dnation.com/confogl-and-other-configs/how-to-install-promodconfogl-(linux-guide)/
