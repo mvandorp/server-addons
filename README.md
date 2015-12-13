@@ -26,9 +26,9 @@ DHooks 1.0.12-alpha
 --------------
 https://forums.alliedmods.net/showthread.php?t=180114
 
-Left 4 Downtown 2 v0.5.4.2
+Left 4 Downtown 2 v0.6
 --------------
-https://forums.alliedmods.net/showthread.php?t=134032
+https://github.com/Attano/Left4Downtown2
 
 L4DToolZ 1.0.0.9h
 --------------

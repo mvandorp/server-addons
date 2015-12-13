@@ -18,7 +18,6 @@ main() {
 
     install "tickrate-enabler"
     install "dhooks"
-    install "left4downtown2"
     install "l4dtoolz"
     install "builtinvotes"
     install "geoip"
@@ -32,6 +31,7 @@ main() {
     install "eq"
     install "sky"
     install "promod"
+    install "left4downtown2"
     install "sourcebans"
     install "various"
 }
