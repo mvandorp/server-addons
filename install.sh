@@ -12,27 +12,34 @@ L4D2_DIR="/home/steam/Steam/steamapps/common/Left 4 Dead 2 Dedicated Server/left
 #######################################################################
 
 main() {
+	# Install unmaintained configs first
+    install "scavogl"
+    install "practiceogl"
+    install "witchparty"
+	
+	# Install sourcemod, metamod, stripper
     install "mmsource"
     install "sourcemod"
     install "stripper"
 
+	# Install various extensions
     install "tickrate-enabler"
     install "dhooks"
     install "l4dtoolz"
     install "builtinvotes"
     install "geoip"
     install "cannounce"
+    install "sourcebans"
+	
+	# Install configs
     install "confogl"
-    install "scavogl"
-    install "practiceogl"
-    install "witchparty"
-	install "skeet"
     install "rotoblin"
     install "eq"
     install "sky"
     install "promod"
-    install "left4downtown2"
-    install "sourcebans"
+	install "skeet"
+	
+	# Install various plugins
     install "various"
 }
 
