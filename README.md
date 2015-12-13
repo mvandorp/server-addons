@@ -47,15 +47,9 @@ GeoIPCity 1.1.2
 --------------
 https://forums.alliedmods.net/showthread.php?t=132470?t=132470
 
-**Notes**:
- - Packaged with GeoIP config from ProMod
-
 Connect Announce 1.6
 --------------
 https://forums.alliedmods.net/showthread.php?t=77306
-
-**Notes**:
- - Packaged with CAnnounce config and data from Sir's PromodFullPackage
 
 Confogl 2.2.2
 --------------
