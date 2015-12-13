@@ -66,6 +66,10 @@ Scavogl 2.1.4
 --------------
 https://code.google.com/p/scavogl/
 
+Skeet
+--------------
+Provided by SadasticPandaBear
+
 Rotoblin 3.4
 --------------
 https://github.com/Attano/Rotoblin
