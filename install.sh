@@ -37,6 +37,7 @@ main() {
     install "sky"
     install "promod"
     install "skeet"
+    install "pubfogl"
 
     # Install various plugins
     install "sourcebans"

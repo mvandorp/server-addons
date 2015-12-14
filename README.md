@@ -64,7 +64,7 @@ https://code.google.com/p/scavogl/
 
 Skeet
 --------------
-Provided by SadasticPandaBear
+Based on ProMod
 
 Rotoblin 3.4
 --------------
@@ -81,6 +81,10 @@ https://github.com/Attano/Equilibrium
 ProMod 4.4.2
 --------------
 https://github.com/jacob404/Pro-Mod-4.0
+
+Pubfogl
+--------------
+Based on ProMod
 
 SourceBans 
 --------------
