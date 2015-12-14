@@ -86,6 +86,10 @@ SourceBans
 --------------
 https://github.com/mvandorp/sourcebansv1
 
+SourceMod Anti-Cheat 0.5.8.2
+--------------
+https://bitbucket.org/anticheat/smac
+
 Various
 --------------
 http://www.l4dnation.com/confogl-and-other-configs/how-to-install-promodconfogl-(linux-guide)/
