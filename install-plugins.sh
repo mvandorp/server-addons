@@ -5,7 +5,7 @@
 #######################################################################
 
 # The left4dead2 directory of your server
-L4D2_DIR="/home/steam/Steam/steamapps/common/Left 4 Dead 2 Dedicated Server/left4dead2/"
+L4D2_DIR="$HOME/Steam/steamapps/common/Left 4 Dead 2 Dedicated Server/left4dead2/"
 
 #######################################################################
 ### EDIT THESE IF YOU WANT TO INSTALL ONLY SOME OF THE ADDONS       ###
@@ -54,13 +54,13 @@ install() {
     dir=$(mktemp -d)
 
     # Extract the addon to the temp directory
-    tar zxvf "${1}.tar.gz" -C "$dir"
+    tar zxvf "${1}.tar.gz" -C "${dir}"
 
     # Merge the temp directory into the server's left4dead2 folder
-    rsync -av "$dir/" "${L4D2_DIR}"
+    rsync -av "${dir}/" "${L4D2_DIR}"
 
     # Clean up the temp directory
-    rm -rf "$dir"
+    rm -rf "${dir}"
 }
 
 main
