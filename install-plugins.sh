@@ -12,6 +12,10 @@ L4D2_DIR="$HOME/Steam/steamapps/common/Left 4 Dead 2 Dedicated Server/left4dead2
 #######################################################################
 
 main() {
+    echo "================================================================================"
+    echo "=== Installing plugins...                                                    ==="
+    echo "================================================================================"
+
     # Install unmaintained configs first
     install "scavogl"
     install "practiceogl"
