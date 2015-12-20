@@ -104,6 +104,7 @@ https://github.com/mvandorp/server-plugins
  - bequiet.smx
  - server_namer.smx
  - TickrateFixes.smx
+ - SourceSleuth.smx
  - votemanager2.smx
  - l4d2_respec_fixes.smx
  - l4d2_skill_detect.smx
