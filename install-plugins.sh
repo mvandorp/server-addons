@@ -11,7 +11,8 @@ L4D2_DIR="$HOME/Steam/steamapps/common/Left 4 Dead 2 Dedicated Server/left4dead2
 ### EDIT THESE IF YOU WANT TO INSTALL ONLY SOME OF THE ADDONS       ###
 #######################################################################
 
-main() {
+main()
+{
     echo "================================================================================"
     echo "=== Installing plugins...                                                    ==="
     echo "================================================================================"
@@ -47,13 +48,16 @@ main() {
     install "sourcebans"
     install "smac"
     install "various"
+
+    install_maps
 }
 
 #######################################################################
 ### SHOULD NOT HAVE TO EDIT BELOW HERE                              ###
 #######################################################################
 
-install() {
+install()
+{
     # Create a temporary directory
     dir=$(mktemp -d)
 
@@ -65,6 +69,23 @@ install() {
 
     # Clean up the temp directory
     rm -rf "${dir}"
+}
+
+install_maps()
+{
+    # Save working directory
+    dir=$(pwd)
+
+    # Download maps
+    mkdir "$HOME/maps"
+    cd "$HOME/maps"
+    wget -A zip -N -m -p -E -k -K -nd -np "http://151.80.110.71/maps/"
+
+    # Extract and install maps
+    unzip -u -n '*.zip' -d "${L4D2_DIR}/addons/"
+
+    # Restore working directory
+    cd "${dir}"
 }
 
 main
