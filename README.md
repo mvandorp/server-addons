@@ -78,7 +78,7 @@ Equilibrium 3.0
 --------------
 https://github.com/Attano/Equilibrium
 
-ProMod 4.4.2
+ProMod 4.5.2
 --------------
 https://github.com/jacob404/Pro-Mod-4.0
 
