@@ -82,10 +82,6 @@ ProMod 4.5.2
 --------------
 https://github.com/jacob404/Pro-Mod-4.0
 
-Pubfogl
---------------
-Based on ProMod
-
 SourceBans 
 --------------
 https://github.com/mvandorp/sourcebansv1
