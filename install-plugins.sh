@@ -38,9 +38,9 @@ main()
     # Install configs
     install "confogl"
     install "rotoblin"
-    install "eq"
     install "sky"
     install "promod"
+    install "eq"
     install "skeet"
 
     # Install various plugins
