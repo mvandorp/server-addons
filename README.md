@@ -74,7 +74,7 @@ Sky 2.7.1
 --------------
 https://github.com/Attano/Sky
 
-Equilibrium 3.0
+Equilibrium 3.0c
 --------------
 https://github.com/Attano/Equilibrium
 
