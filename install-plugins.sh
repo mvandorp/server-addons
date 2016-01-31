@@ -40,6 +40,7 @@ main()
     install "rotoblin"
     install "sky"
     install "promod"
+	install "promod-4.5.2-stripper"
     install "eq"
     install "skeet"
 
