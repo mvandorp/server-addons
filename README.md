@@ -58,9 +58,9 @@ Practiceogl 1.1
 --------------
 http://www.l4dnation.com/confogl-and-other-configs/1v1-practiceogl-1-0/
 
-Scavogl 2.1.4
+Scavogl
 --------------
-https://code.google.com/p/scavogl/
+https://github.com/HouseHse/Scavogl
 
 Skeet
 --------------
