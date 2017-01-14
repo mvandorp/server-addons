@@ -79,7 +79,7 @@ install_maps()
     # Download maps
     mkdir "$HOME/maps"
     cd "$HOME/maps"
-    wget -A zip -N -m -p -E -k -K -nd -np "http://151.80.110.71/maps/"
+    wget -A zip -N -m -p -E -k -K -nd -np "http://82.217.237.3/maps/"
 
     # Extract and install maps
     unzip -u -n '*.zip' -d "${L4D2_DIR}/addons/"
