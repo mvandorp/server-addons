@@ -5,7 +5,7 @@ MetaMod:Source 1.10.6
 --------------
 http://www.metamodsource.net/
 
-SourceMod 1.7.3-git5265
+SourceMod 1.7.3-git5326
 --------------
 https://www.sourcemod.net/
 
